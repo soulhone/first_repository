@@ -5,3 +5,5 @@ folder_test
 # bo qua tat cac file co duoi la log
 *.log
 
+# bo qua file yaml nhung van day len file new_file_3.yaml
+/*.yaml
