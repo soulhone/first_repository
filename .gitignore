@@ -1,0 +1,7 @@
+# day la comment, khong co tac dung  ignore file/folder
+
+# ignore file/folder theo ten
+folder_test
+# bo qua tat cac file co duoi la log
+*.log
+
